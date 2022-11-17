@@ -1,4 +1,0 @@
-Requirements
-
-flask
-flask_mysqldb
